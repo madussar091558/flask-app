@@ -1,4 +1,2 @@
 flask
-requests
-youtube-transcript-api
-gunicorn
+yt-dlp
